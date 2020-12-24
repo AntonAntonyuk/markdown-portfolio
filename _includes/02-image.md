@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![DevOps](https://internetdevels.com/sites/default/files/public/blog_preview/devops.jpg)
